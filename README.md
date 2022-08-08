@@ -6,6 +6,12 @@
 ## Description
 🔍 This easy to use node application will allow users to generate a Readme for any project they desire and have it be in the proper syntax
 
+## Video
+
+
+https://user-images.githubusercontent.com/98803950/183482712-3ba99a01-c8f5-467e-9089-88f32c835d74.mp4
+
+
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
