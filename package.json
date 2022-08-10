@@ -7,15 +7,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jpd61/README-generator.git"
+    "type": "module",
+    "url": "git+https://github.com/Joeybooo/9-readme-generator.git"
   },
   "author": "Joseph DeWoody",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jpd61/README-generator/issues"
+    "url": "https://github.com/Joeybooo/9-readme-generator/issues"
   },
-  "homepage": "https://github.com/jpd61/README-generator#readme",
+  "homepage": "https://github.com/Joeybooo/9-readme-generator#readme",
   "dependencies": {
     "axios": "^0.19.2",
     "inquirer": "^7.1.0",
