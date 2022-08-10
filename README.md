@@ -45,5 +45,5 @@ This application is covered by the ISC license.
 <br />
 ✉️ Email me with any questions: joeybyrd9999@gmail.com<br /><br />
 
-_This README was generated with ❤️ by [README-generator](https://github.com/jpd61/README-generator) 🔥🔥🔥_
+
     
